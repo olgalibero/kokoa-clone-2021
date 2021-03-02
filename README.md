@@ -1,3 +1,3 @@
-#KOkoa Clone 2021. 3. 02. Update
+# Kokoa Clone 2021. 3. 02. Update
 
-CSS got so much better!
+HTML & CSS are so much fun!
